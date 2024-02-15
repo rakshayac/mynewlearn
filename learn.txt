@@ -6,4 +6,6 @@ five
 six
 seven
 nine
-tem
+ten
+
+leven
